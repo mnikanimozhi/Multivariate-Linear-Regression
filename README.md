@@ -33,9 +33,5 @@ Register no: 25017715
 
 <img width="563" height="340" alt="Screenshot 2025-12-16 180213" src="https://github.com/user-attachments/assets/82e58aa8-865e-4e1d-af44-40bb518d267e" />
 
-### Insert your output
-
-<br>
-
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
